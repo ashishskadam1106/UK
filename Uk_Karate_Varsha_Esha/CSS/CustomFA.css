@@ -1,0 +1,86 @@
+﻿.C_fa_fa-angle-left_pull-right::before {
+    display:inline-block;
+    font:normal normal normal 14px/1 FontAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+
+    content:"\f104";
+    float:right;
+    margin-right:5px;
+}
+
+.C_fa_fa-dashboard::before {
+    display:inline-block;
+    font:normal normal normal 14px/1 FontAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+
+    content:"\f0e4";
+    margin-right:5px;
+}
+
+.C_fa_fa-circle-o::before {
+    display:inline-block;
+    font:normal normal normal 14px/1 FontAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+
+    content:"\f10c";
+    margin-right:12px;
+}
+
+.C_fa_fa-database::before {
+    display:inline-block;
+    font:normal normal normal 14px/1 FontAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+
+    content:"\f1c0";
+    margin-right:8px;
+}
+
+.C_fa_fa-files-o::before {
+    display:inline-block;
+    font:normal normal normal 14px/1 FontAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+
+    content:"\f0c5";
+    margin-right:8px;
+}
+.C_fa_fa-gears::before {
+    display:inline-block;
+    font:normal normal normal 14px/1 FontAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+
+    content:"\f013";
+    margin-right:8px;
+}
+
+.C_fa_fa-cubes::before {
+    display:inline-block;
+    font:normal normal normal 14px/1 FontAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+
+    content:"\f1b3";
+    margin-right:8px;
+}
+
+
+
